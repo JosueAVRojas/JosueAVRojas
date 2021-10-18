@@ -1,6 +1,19 @@
-### Hola, mi nombre es Josue 👋
 
-<!--
+
+<div align="center" width="50">
+
+<h1> Hola< Desarrollador/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
+  
+  
+![Yo](https://user-images.githubusercontent.com/62231904/137677285-87e5fb63-ff6b-4989-9f10-574201c6ce4a.gif)
+
+ 
+
+  
+  <!--
 **JosueAVRojas/JosueAVRojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,9 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![pixel-art-copywriter-copywriting](https://user-images.githubusercontent.com/62231904/137677285-87e5fb63-ff6b-4989-9f10-574201c6ce4a.gif)4724-b226-57bc2231e4d9.gif)
-![image](https://user-images.githubusercontent.com/62231904/137677537-d55e5143-985d-403e-b00f-424f80e5c417.png)
-![image](https://user-images.githubusercontent.com/62231904/137677609-77a1c7c6-368a-42a1-a2a0-7c17100e4f0f.png)
-![image](https://user-images.githubusercontent.com/62231904/137678274-684577f4-a69f-426c-a100-ae6e2ef7d3b7.png)
-
