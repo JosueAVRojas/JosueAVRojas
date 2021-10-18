@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 ![pixel-art-copywriter-copywriting](https://user-images.githubusercontent.com/62231904/137677285-87e5fb63-ff6b-4989-9f10-574201c6ce4a.gif)
 ![tumblr_6b9d5fbcc7d6ebe2c3636ed25a550787_311bc898_1280](https://user-images.githubusercontent.com/62231904/137677288-2eacaeda-9a42-4d88-a843-111bbd5492d2.gif)
 ![dfd](https://user-images.githubusercontent.com/62231904/137677293-933d8aad-81a2-4d90-9221-c6c099c117f9.gif)
+![tumblr_6b9d5fbcc7d6ebe2c3636ed25a550787_311bc898_1280](https://user-images.githubusercontent.com/62231904/137677424-6c1b1309-953a-4724-b226-57bc2231e4d9.gif)
