@@ -3,13 +3,6 @@
 <!--
 **JosueAVRojas/JosueAVRojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![15e7e300166c962d3b8a22f60b5cac9e](https://user-images.githubusercontent.com/62231904/137676170-f256d853-1b65-48c2-ba85-d92f744d73f2.gif)
-
-![pixel-art-copywriter-copywriting](https://user-images.githubusercontent.com/62231904/137676174-32ec9bc8-31bc-4a36-9648-46e3fcdf9e59.gif)
-
-![tumblr_6b9d5fbcc7d6ebe2c3636ed25a550787_311bc898_1280](https://user-images.githubusercontent.com/62231904/137676179-9dfbc479-c468-4b45-9445-dfc77dcaf5c4.gif)
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![pixel-art-copywriter-copywriting](https://i.pinimg.com/originals/20/70/f8/2070f812d6a581d5782c2df2f13165e8.gif)
+![image](https://user-images.githubusercontent.com/62231904/137677048-4749f7ff-afc0-4329-aa31-4049564d0e88.png)
+![dfd](https://user-images.githubusercontent.com/62231904/137677198-948b08b7-b834-42cf-beb0-0dd77bab330e.gif)
