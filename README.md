@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![pixel-art-copywriter-copywriting](https://i.pinimg.com/originals/20/70/f8/2070f812d6a581d5782c2df2f13165e8.gif)
-![image](https://user-images.githubusercontent.com/62231904/137677048-4749f7ff-afc0-4329-aa31-4049564d0e88.png)
-![dfd](https://user-images.githubusercontent.com/62231904/137677198-948b08b7-b834-42cf-beb0-0dd77bab330e.gif)
+![15e7e300166c962d3b8a22f60b5cac9e](https://user-images.githubusercontent.com/62231904/137677283-a30f9ac5-4484-4e58-ad11-1b7b02bd441d.gif)
+
+![pixel-art-copywriter-copywriting](https://user-images.githubusercontent.com/62231904/137677285-87e5fb63-ff6b-4989-9f10-574201c6ce4a.gif)
+![tumblr_6b9d5fbcc7d6ebe2c3636ed25a550787_311bc898_1280](https://user-images.githubusercontent.com/62231904/137677288-2eacaeda-9a42-4d88-a843-111bbd5492d2.gif)
+![dfd](https://user-images.githubusercontent.com/62231904/137677293-933d8aad-81a2-4d90-9221-c6c099c117f9.gif)
