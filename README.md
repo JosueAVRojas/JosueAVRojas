@@ -4,23 +4,18 @@
   <h1> Hola, mi nombre es Josue <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 </div>
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l6qhuy003w1aj5ir4xsj8b5u5&cover_image=true&theme=novatorem&bar_color=1aaff9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
     
-  </td>
-  <td width="50%">
-    
-![Yo](https://user-images.githubusercontent.com/62231904/137677285-87e5fb63-ff6b-4989-9f10-574201c6ce4a.gif)
-    
-  </td>
-</table> 
+<div with="100%">
   
   
-![Yo](https://user-images.githubusercontent.com/62231904/137677285-87e5fb63-ff6b-4989-9f10-574201c6ce4a.gif)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l6qhuy003w1aj5ir4xsj8b5u5&cover_image=true&theme=novatorem&bar_color=1aaff9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+
+</div>
+
+![Yo](https://user-images.githubusercontent.com/62231904/137677285-87e5fb63-ff6b-4989-9f10-574201c6ce4a.gif)
 
 
 ## Sobre mí :technologist:
