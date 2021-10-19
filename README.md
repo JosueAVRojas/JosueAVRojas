@@ -38,11 +38,26 @@ Soy un joven recién egresado (6 meses) de la licenciatura de Ingeniería en Sis
  ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black)
  ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
- ![image](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) 
+ ![image](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+ ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ ![image](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoin&logoColor=white)
+ ![image](https://img.shields.io/badge/Microsoft_Word-0078D4?style=for-the-badge&logo=microsoft-word&logoColor=white)
+ ![image](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+ ![image](https://img.shields.io/badge/GitKraken-30B283?style=for-the-badge&logo=gitkraken&logoColor=white)
+ ![image](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![image](https://img.shields.io/badge/Sublime_Text-4C4C4C?style=for-the-badge&logo=sublime-text&logoColor=white)
+ ![image](https://img.shields.io/badge/Xampp-fb7a24?style=for-the-badge&logo=xampp&logoColor=white)
  ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
  ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 	
-  
-  
+ ## Mis estadísticas de GitHub 📈
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueAVRojas&show_icons=true&theme=blueberry)|[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JosueAVRojas&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+|---|---|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueAVRojas&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JosueAVRojas&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
