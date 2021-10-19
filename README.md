@@ -1,15 +1,11 @@
-
-
-<div  width="50">
-  <h1> Hola, mi nombre es Josue <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-</div>
-
 ![Yo](https://user-images.githubusercontent.com/62231904/137677285-87e5fb63-ff6b-4989-9f10-574201c6ce4a.gif)
 
 
----
+<div  width="50" align="center">
+  <h1> Hola, mi nombre es Josue <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+</div>
 
-<h2 align="center"><u><b>Sobre mí :technologist:</b></u></h2>
+<h3 align="center"><u><b>Sobre mí :technologist:</b></u></h3>
 
 Soy un joven recién egresado (6 meses) de la licenciatura de Ingeniería en Sistemas Computacionales en la Universidad del Sur. Soy un aprendiz apasionado que siempre esta dispuesto a enfrentar retos, aprender y a trabajar a través de tecnologías y dominios. Me encanta saber como funcionan las cosas, las nuevas tecnologías y saber cómo aprovecharlas para poder resolver problemas de la vida real.  Actualmente me dedico a desarrollar mis proyectos en mente. 
 
