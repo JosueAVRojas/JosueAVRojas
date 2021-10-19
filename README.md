@@ -90,6 +90,8 @@ Soy un joven recién egresado (6 meses) de la licenciatura de Ingeniería en Sis
  ![image](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![image](https://img.shields.io/badge/Sublime_Text-4C4C4C?style=for-the-badge&logo=sublime-text&logoColor=white)
  ![image](https://img.shields.io/badge/Xampp-fb7a24?style=for-the-badge&logo=xampp&logoColor=white)
+ ![image](https://img.shields.io/badge/Virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+![image](https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 
 </div>
 
