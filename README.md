@@ -53,9 +53,9 @@ Soy un joven recién egresado (6 meses) de la licenciatura de Ingeniería en Sis
 	
  ## Mis estadísticas de GitHub 📈
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueAVRojas&show_icons=true&theme=blueberry)|[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JosueAVRojas&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueAVRojas&show_icons=true&theme=blueberry)|![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JosueAVRojas&theme=blueberry)
 |---|---|
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueAVRojas&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JosueAVRojas&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueAVRojas&layout=compact&theme=blueberry)|![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JosueAVRojas&theme=blueberry)
 
 
 
