@@ -4,8 +4,21 @@
   <h1> Hola, mi nombre es Josue <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 </div>
 
-
-
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l6qhuy003w1aj5ir4xsj8b5u5&cover_image=true&theme=novatorem&bar_color=1aaff9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+    
+  </td>
+  <td width="50%">
+    
+![Yo](https://user-images.githubusercontent.com/62231904/137677285-87e5fb63-ff6b-4989-9f10-574201c6ce4a.gif)
+    
+  </td>
+</table> 
+  
+  
 ![Yo](https://user-images.githubusercontent.com/62231904/137677285-87e5fb63-ff6b-4989-9f10-574201c6ce4a.gif)
 
 
@@ -32,9 +45,10 @@ Soy un joven recién egresado (6 meses) de la licenciatura de Ingeniería en Sis
 </div>
 
 ## Lenguajes y Herramientas :hammer_and_wrench:
-
 <div>
   
+  [![image](https://img.shields.io/badge/HTML5-7289da?style=for-the-badge&logo=html&logoColor=white)](https://discord.gg/DTwxjuPTne)
+
   
   
 </div>
