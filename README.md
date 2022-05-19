@@ -105,35 +105,5 @@ Soy un joven recién egresado (6 meses) de la licenciatura de Ingeniería en Sis
 
 </div>
 	
----
-	
-<h2 align="center"><u><b>Mis estadísticas de GitHub 📈</b></u></h2>
-
-<div align="center">
-	
-<table>
-  <tr>
- <td>
-	 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueAVRojas&show_icons=true&theme=blueberry) 
-	 
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JosueAVRojas&theme=blueberry)
-	  
-</td>
-    <td>
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueAVRojas&langs_count=8&theme=blueberry)
-	    
-</td>
-  </tr>
-</table>
-	
-</div>
-
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
 
